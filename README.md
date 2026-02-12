@@ -21,5 +21,6 @@ Debugging runtime type errors
 Deploying AI applications to Streamlit Cloud
 Using Git & GitHub for version control
 
+author
 Akash Patil
 Second-year student exploring AI & Web Applications
